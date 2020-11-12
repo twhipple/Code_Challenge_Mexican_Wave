@@ -1,6 +1,6 @@
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/bf61f2ef99e8f2b6ca725e88d00e1e92d21b9bba/Images/taylor-rooney-I_2PA-rsFag-unsplash(1).jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/Images/taylor-rooney-I_2PA-rsFag-unsplash(1).jpg)
 
 *This is the best picture I can get of people looking like they are doing the 'wave'. Source: Taylor Rooney, Upsplash.com*
 
