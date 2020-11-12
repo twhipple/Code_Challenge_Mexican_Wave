@@ -1,6 +1,6 @@
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/Images/taylor-rooney-I_2PA-rsFag-unsplash(1).jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/master/Images/taylor-rooney-I_2PA-rsFag-unsplash(1).jpg)
 
 *This is the best picture I can get of people looking like they are doing the 'wave'. Source: Taylor Rooney, Upsplash.com*
 
@@ -33,5 +33,6 @@ This kata was written by: adrian.eyre
 
 Thank you to Codewars for helping me practice my Python skills.
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/main/Images/jimmy-conover-SEQ2VI0KI6A-unsplash (1).jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/master/Images/jimmy-conover-SEQ2VI0KI6A-unsplash(1).jpg)
+
 *Another picture of people 'waving' - sort of. Source: Jimmy Conover*
